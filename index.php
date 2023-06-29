@@ -10,7 +10,7 @@ require_once("config.php");
 
     <meta charset="utf-8">
 
-  <!--  <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>BR Queiroz</title>
 
