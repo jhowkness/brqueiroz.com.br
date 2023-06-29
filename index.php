@@ -6,13 +6,13 @@
 
     <meta charset="utf-8">
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--  <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
 
     <title>BR Queiroz</title>
 
     
 
-    <base href="http://brqueiroz.com.br/" />
+    <base href="https://brqueiroz.com.br/" />
 
     <? if($_mobile){?><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes"><? }else{?>
 
@@ -1810,7 +1810,7 @@
 
                         <div class="col-sm-6 col-md-6 text-right">
 
-                            <p><a href="http://www.julioguimaraes.com.br" target="_blank">desenvolvido por Julio Guimarães | Inventandus</a></p>
+                            <p><a href="https://www.julioguimaraes.com.br" target="_blank">desenvolvido por Julio Guimarães | Inventandus</a></p>
 
                         </div>
 
